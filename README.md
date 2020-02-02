@@ -26,5 +26,5 @@ El archivo apk se encuentra en la carpeta Build.
 
 ## Gameplay
 
-![](GameplayRepairWars.mp4)
-![](Capturas/RepairWars.gif)
+![](RepairWars.gif)
+<!-- ![](GameplayRepairWars.mp4) -->
