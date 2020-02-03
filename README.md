@@ -26,6 +26,8 @@ El archivo apk se encuentra en la carpeta Build.
 
 ## Gameplay
 
+Mira el video!!!
+
 https://youtu.be/W-HVGMaBXUk
 
 ![](Capturas/RW1.JPG)
