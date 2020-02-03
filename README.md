@@ -28,4 +28,4 @@ El archivo apk se encuentra en la carpeta Build.
 
 <!-- ![](RepairWars.gif) -->
 <!-- ![](MiVideo.mp4) -->
-[](https://www.youtube.com/watch?v=bZfRsucvS0Y)
+![](https://www.youtube.com/watch?v=bZfRsucvS0Y)
