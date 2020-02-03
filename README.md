@@ -4,7 +4,7 @@ Juego Desarrollado en el Game Jam 2020!!!!
 
 El tema de este año fue REPARACIÓN
 
-## Istrucciones
+## Instrucciones
 
 Eres un reparador, y tu máquina está despedazándose, si no la reparas en 60 segundos, ésta explotará.
 
@@ -26,6 +26,8 @@ El archivo apk se encuentra en la carpeta Build.
 
 ## Gameplay
 
-<!-- ![](RepairWars.gif) -->
-<!-- ![](MiVideo.mp4) -->
-![](https://www.youtube.com/watch?v=bZfRsucvS0Y)
+https://youtu.be/W-HVGMaBXUk
+
+![](Capturas/RW1.JPG)
+![](Capturas/RW2.JPG)
+
